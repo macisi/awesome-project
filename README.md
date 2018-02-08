@@ -23,3 +23,6 @@
 ### HTTP Client
 - [[Needle](https://github.com/tomas/needle)] The leanest and most handsome HTTP client in the Nodelands.
 
+## Tools
+- [spectacle](https://github.com/FormidableLabs/spectacle) ReactJS based Presentation Library.
+
