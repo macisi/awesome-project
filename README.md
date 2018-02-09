@@ -15,7 +15,7 @@
 ### Component
 - [[React Content Loader](https://github.com/danilowoz/react-content-loader)] React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.
 - [[React Svg Morph](https://github.com/gorangajic/react-svg-morph)] morph your svg components one into another.
-- [react-powerplug](https://github.com/renatorib/react-powerplug) 🔌 Renderless Containers.
+- [[react-powerplug](https://github.com/renatorib/react-powerplug)] 🔌 Renderless Containers.
 
 ### Tools
 - [[storybook](https://github.com/storybooks/storybook)] Storybook is a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
@@ -25,11 +25,11 @@
 - [[Needle](https://github.com/tomas/needle)] The leanest and most handsome HTTP client in the Nodelands.
 
 ## Tools
-- [spectacle](https://github.com/FormidableLabs/spectacle) ReactJS based Presentation Library.
-- [reactopt](https://github.com/reactopt/reactopt) A CLI React performance optimization tool that identifies potential unnecessary re-rendering.
-- [fecha](https://github.com/taylorhakes/fecha) Lightweight Javascript Date formatting and parsing.
+- [[spectacle](https://github.com/FormidableLabs/spectacle)] ReactJS based Presentation Library.
+- [[reactopt](https://github.com/reactopt/reactopt)] A CLI React performance optimization tool that identifies potential unnecessary re-rendering.
+- [[fecha](https://github.com/taylorhakes/fecha)] Lightweight Javascript Date formatting and parsing.
 
 ## AI
 ### Facial 
-- [clmtrackr](https://github.com/auduno/clmtrackr) Javascript library for precise tracking of facial features via Constrained Local Models.
-- [face-rating](https://github.com/avisingh599/face-rating) A machine learning model that predicts facial attractiveness from images
+- [[clmtrackr](https://github.com/auduno/clmtrackr)] Javascript library for precise tracking of facial features via Constrained Local Models.
+- [[face-rating](https://github.com/avisingh599/face-rating)] A machine learning model that predicts facial attractiveness from images
