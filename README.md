@@ -2,7 +2,7 @@
 
 ## Images
 - [[caire](https://github.com/esimov/caire)] Caire is a content aware image resize library based on Seam Carving for Content-Aware Image Resizing paper.
-- [waifu2x](https://github.com/nagadomi/waifu2x) Image Super-Resolution for Anime-Style Art.
+- [[waifu2x](https://github.com/nagadomi/waifu2x)] Image Super-Resolution for Anime-Style Art.
 
 ## Web Worker
 - [[greelet](https://github.com/developit/greenlet)] Move an async function into Web Workers.
