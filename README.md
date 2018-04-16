@@ -5,7 +5,7 @@
 - [[waifu2x](https://github.com/nagadomi/waifu2x)] Image Super-Resolution for Anime-Style Art.
 
 ## Web Worker
-- [[greelet](https://github.com/developit/greenlet)] Move an async function into Web Workers.
+- [[greenlet](https://github.com/developit/greenlet)] Move an async function into Web Workers.
 
 ## UI Components
 
